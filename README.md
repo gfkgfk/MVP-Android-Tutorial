@@ -7,5 +7,4 @@ https://www.jianshu.com/p/ae0b21d3238a
 
 ​	MVP与MVC有一些类似。借用一张图:
 
-![MVC&MVP](https://github.com/gfkgfk/MVP-Android-Tutorial/tree/master/img/MVC&MVP.png)
-
+![MVC&MVP](https://github.com/gfkgfk/MVP-Android-Tutorial/raw/master/img/MVC&MVP.png)
